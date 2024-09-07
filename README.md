@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [togetherten.blogspot.com](togetherten.blogspot.com)
 
-- 💬 Ask me about **Burpsuite,Django,node.js,Express.js**
+- 💬 Ask me about **Burpsuite,CyberSecurity,Backend Development**
 
 - 📫 How to reach me **shreyasmahajan05@gmail.com**
 
