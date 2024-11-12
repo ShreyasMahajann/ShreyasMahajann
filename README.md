@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [shreyasmahajan.me](shreyasmahajan.me)
 
-- 📝 I regularly write articles on [togetherten.blogspot.com](togetherten.blogspot.com)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ShreyasMahajann),[togetherten.blogspot.com](togetherten.blogspot.com)
 
 - 💬 Ask me about **Burpsuite,CyberSecurity,Backend Development**
 
